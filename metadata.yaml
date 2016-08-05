@@ -1,0 +1,30 @@
+_repo: The-Light-of-Asia_8920
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Arnold, Edwin, Sir
+    birthdate: 1832
+    deathdate: 1904
+    gutenberg_agent_id: '889'
+    url: http://www.gutenberg.org/2009/agents/889
+    wikipedia: http://en.wikipedia.org/wiki/Edwin_Arnold
+description: The Light of Asia, subtitled The Great Renunciation, weaves through its
+  poetic verses the life and philosophy of Prince Siddhartha Gautama who attained
+  enlightenment under the bodhi tree and became the Buddha. Receiving high acclaim
+  since its publication in 1879, Edwin Arnold's work was adapted from the Lalitavistara
+  Sutra (The Unfolding of the Play.) In the time before this work came out, little
+  was known about Buddhism or the Buddha outside of Asia.
+gutenberg_issued: '2005-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8920'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Buddhism -- Poetry'
+- GITenberg
+title: The Light of Asia
+url: http://www.gutenberg.org/ebooks/8920
