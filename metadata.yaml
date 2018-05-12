@@ -1,5 +1,8 @@
 _repo: The-Light-of-Asia_8920
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Arnold, Edwin, Sir
@@ -14,6 +17,8 @@ description: The Light of Asia, subtitled The Great Renunciation, weaves through
   since its publication in 1879, Edwin Arnold's work was adapted from the Lalitavistara
   Sutra (The Unfolding of the Play.) In the time before this work came out, little
   was known about Buddhism or the Buddha outside of Asia.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8920#The-Light-of-Asia
 gutenberg_issued: '2005-09-01'
 gutenberg_type: Text
 identifiers:
